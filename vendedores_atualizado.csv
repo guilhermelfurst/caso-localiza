@@ -1,0 +1,11 @@
+COD_VENDEDOR,COD_LOJA,NOME_VENDEDOR,EMAIL
+1,2,Vendedor 1,vendedor1@exemplo.com
+2,3,Vendedor 2,vendedor2@exemplo.com
+3,4,Vendedor 3,vendedor3@exemplo.com
+4,5,Vendedor 4,vendedor4@exemplo.com
+5,1,Vendedor 5,vendedor5@exemplo.com
+6,2,Vendedor 6,vendedor6@exemplo.com
+7,1,Vendedor 7,vendedor7@exemplo.com
+8,5,Vendedor 8,vendedor8@exemplo.com
+9,4,Vendedor 9,vendedor9@exemplo.com
+10,4,Vendedor 10,vendedor10@exemplo.com
